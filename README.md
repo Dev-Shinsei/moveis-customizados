@@ -4,10 +4,11 @@
 <p>Esse projeto foi criado por meio do curso Explorer da RocketSeat e realizado como desafio de corrigir bugs de layout e deixar idêntico ao protótipo Figma (Desafio 1 - Stage 2).<br/>
 Agradecimentos infinitos a RocketSeat e ao Mestre <a href="https://github.com/maykbrito">Mayk Brito</a>.</p>
 
-https://img.shields.io/npm/l/a?color=Green
-https://img.shields.io/github/last-commit/Dev-shinsei/moveis-customizados
-https://img.shields.io/github/followers/Dev-shinsei?style=social
-https://img.shields.io/github/stars/Dev-shinsei/moveis-customizados?style=social
+[![License](https://img.shields.io/npm/l/a?color=Green)]
+[![Last Commit](https://img.shields.io/github/last-commit/Dev-shinsei/moveis-customizados)]
+[![Followers](https://img.shields.io/github/followers/Dev-shinsei?style=social)]
+[![Stars](https://img.shields.io/github/stars/Dev-shinsei/moveis-customizados?style=social)]
+
 
 ### Features
 - [x] Interpretação de protótipo Figma
