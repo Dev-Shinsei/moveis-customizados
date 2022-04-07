@@ -1,8 +1,8 @@
 # Móveis Customizados 
 
 ## Descrição do Projeto
-Esse projeto foi criado por meio do curso Explorer da RocketSeat e realizado como desafio de corrigir bugs de layout e deixar idêntico ao protótipo Figma.
-Agradecimentos infinitos a RocketSeat e ao Mestre <a href="https://github.com/maykbrito">Mayk Brito</a>.
+<p>Esse projeto foi criado por meio do curso Explorer da RocketSeat e realizado como desafio de corrigir bugs de layout e deixar idêntico ao protótipo Figma (Desafio 1 - Stage 2).<br/>
+Agradecimentos infinitos a RocketSeat e ao Mestre <a href="https://github.com/maykbrito">Mayk Brito</a>.</p>
 
 https://img.shields.io/npm/l/a?color=Green
 https://img.shields.io/github/last-commit/Dev-shinsei/moveis-customizados
