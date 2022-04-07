@@ -23,7 +23,7 @@ Agradecimentos infinitos a RocketSeat e ao Mestre <a href="https://github.com/ma
 <a href="https://github.com/Dev-Shinsei">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61604214?v=4" width="100px;" alt="homem utilizando mascara facial e oculos tirando foto em um espelho de um elevador com seu celular a mostra"/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://github.com/Dev-Shinsei" title="Github">🚀</a>
+ <sub><b>Carlos Gomes</b></sub></a> <a href="https://github.com/Dev-Shinsei" title="Github">🚀</a>
 
 
 Feito com ❤️ por Carlos Gomes 👋
